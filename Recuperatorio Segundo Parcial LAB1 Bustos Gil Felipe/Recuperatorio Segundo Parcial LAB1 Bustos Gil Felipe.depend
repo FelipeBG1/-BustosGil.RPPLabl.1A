@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1596028417 source:c:\users\felib\desktop\clases de programacion1 y laboratorio1\recuperatorio segundo parcial lab1 bustos gil felipe\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1596028330 c:\users\felib\desktop\clases de programacion1 y laboratorio1\recuperatorio segundo parcial lab1 bustos gil felipe\linkedlist.h
+
+1596030584 source:c:\users\felib\desktop\clases de programacion1 y laboratorio1\recuperatorio segundo parcial lab1 bustos gil felipe\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	<time.h>
+	<string.h>
+	"parser.h"
+	"informes.h"
+	"Bicicletas.h"
+
+1596029172 source:c:\users\felib\desktop\clases de programacion1 y laboratorio1\recuperatorio segundo parcial lab1 bustos gil felipe\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	<time.h>
+	<string.h>
+	"parser.h"
+	"informes.h"
+	"Bicicletas.h"
+
+1596028919 c:\users\felib\desktop\clases de programacion1 y laboratorio1\recuperatorio segundo parcial lab1 bustos gil felipe\parser.h
+
+1596029002 c:\users\felib\desktop\clases de programacion1 y laboratorio1\recuperatorio segundo parcial lab1 bustos gil felipe\informes.h
+
+1596028919 c:\users\felib\desktop\clases de programacion1 y laboratorio1\recuperatorio segundo parcial lab1 bustos gil felipe\bicicletas.h
+
+1596028919 source:c:\users\felib\desktop\clases de programacion1 y laboratorio1\recuperatorio segundo parcial lab1 bustos gil felipe\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	<time.h>
+	<string.h>
+	"parser.h"
+	"informes.h"
+	"Bicicletas.h"
+
+1596029468 source:c:\users\felib\desktop\clases de programacion1 y laboratorio1\recuperatorio segundo parcial lab1 bustos gil felipe\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	<time.h>
+	<string.h>
+	"parser.h"
+	"informes.h"
+	"Bicicletas.h"
+
